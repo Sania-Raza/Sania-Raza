@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sania-Raza
 - 👀 I’m interested in bright independent future
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a Web Developer
 
 
 <!---
