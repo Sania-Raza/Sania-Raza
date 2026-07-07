@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sania-Raza
 - 👀 I’m interested in bright independent future
-- 🌱 I’m a Web Developer
+- 🌱 I’m a Web Developer + Data Science enthusiast
+ 
 
 
 <!---
