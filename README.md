@@ -28,7 +28,7 @@ Data Science, AI workflows, MERN stack, dev side-projects.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sania-Raza&icon=9&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
