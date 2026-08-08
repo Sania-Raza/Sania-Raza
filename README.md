@@ -1,6 +1,18 @@
 # 💫 About Me:
-I'm currently working on<br>Doing my Full Stack AI Engineering fellowship at Dev Weekends, alongside building VetNova (a MERN-stack veterinary Tool) and a self-hosted mini-Vercel deployment platform for shipping my own projects.<br><br>👥 I'm looking to collaborate on<br>Data Science / AI and full-stack projects - open to networking with devs and builders in this space, and to teaming up on real project work (MERN apps, AI tools, open-source side projects).<br><br>🤝 I'm looking for help with<br>Landing internship or trainee opportunities at Pakistani tech companies.<br><br>🌱 I'm currently learning<br>Full stack AI engineering (via my Dev Weekends fellowship), deployment/DevOps basics like Docker and hosting, and applied ML through my Flyrank internship work.<br><br>💬 Ask me about<br>Data Science, AI tools/workflows, MERN stack development, or building developer side-projects from scratch
+🎥 Working on
+Full Stack AI Engineering fellowship at Dev Weekends, plus VetNova (MERN vet practice system) and a self-hosted mini-Vercel deployment platform.
 
+👥 Collaborate on
+Data Science / AI and full-stack projects — open to networking and teaming up on real builds.
+
+🤝 Help with
+Landing internships/trainee roles at Pakistani tech companies, and monetizing digital products.
+
+🌱 Learning
+Full stack AI engineering, DevOps basics (Docker, hosting), applied ML.
+
+💬 Ask me about
+Data Science, AI workflows, MERN stack, dev side-projects.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/codingexpert.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sania-raza-1b666b296/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/coder23_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sania.raza.pk@gmail.com) 
