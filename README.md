@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎥 Working on
-Full Stack AI Engineering fellowship at Dev Weekends, plus VetNova (MERN vet practice system) and a self-hosted mini-Vercel deployment platform.
+Full Stack AI Engineering fellowship at Dev Weekends.
 
 👥 Collaborate on
 Data Science / AI and full-stack projects — open to networking and teaming up on real builds.
